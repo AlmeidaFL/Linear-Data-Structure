@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "cstdio": "c",
+        "STDIO.H": "cpp",
+        "tadpolinomio.h": "c"
+    }
+}
